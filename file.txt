@@ -6,3 +6,4 @@ this is the fifth line
 this is a brand new line added by someone who cloned the rp
 this is another line added by the master
 this is the line added online
+this is the line to test ssh way of log in
